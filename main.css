@@ -50,6 +50,10 @@ div#about {
 }
 #about-left {
     background-color: white;
+    text-align: justify;
+}
+#about-left h1 {
+    text-align: center
 }
 .col-6 {
     height: 100%;
