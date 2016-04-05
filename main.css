@@ -90,3 +90,13 @@ input[type="text"] {
     margin-left: 6%;
     margin-top: 5%;
 }
+textarea {
+    width: 43%;
+    height: 33%;
+    margin-left: 28%;
+}
+button {
+    height: 6%;
+    width: 8%;
+    margin-left: 45%;
+}
