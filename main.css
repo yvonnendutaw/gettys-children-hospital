@@ -84,3 +84,9 @@ footer {
     height: 30%;
     width: 100%;
 }
+input[type="text"] {
+    width: 25%;
+    height: 6%;
+    margin-left: 6%;
+    margin-top: 5%;
+}

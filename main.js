@@ -1,9 +1,11 @@
-$("#, ").vegas({
+
+$("#images ").vegas({
+    cover:true,
     slides: [
-        { src: "img/download.jpg" },
-        { src: "img/images1.jpg" },
-        { src: "img/slide2.jpg" },
-        { src: "img/slide3.jpg" },
-        { src: "img/images4.jpg" }
+
+        { src: "img/image2.jpg" },
+        { src: "img/image3.jpg" },
+        { src: "img/image5.jpg" },
+        { src: "img/image4.jpg" }
     ]
 });
