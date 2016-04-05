@@ -9,3 +9,17 @@ div#container {
     height: 100%;
     
 }
+div#Logo {
+    background-color: chocolate;
+    height: 17%;
+}
+div#Logo {
+    background-color: rgba(255, 99, 71, 0.45);
+    height: 12%;
+    padding-top: 1%;
+    padding-left: 4%;
+    font-family: 'Playfair Display', serif;
+    font-size: 28px;
+    padding-bottom: 1%;
+    color: #DC143C;
+}
